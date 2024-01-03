@@ -1,6 +1,6 @@
 # D-Lab FSRDC Fundamentals Workshop
 
-Google Slides (https://docs.google.com/presentation/d/1ARu3YiBheDJTp0ct9_63XvkIXTvelhdS/edit#slide=id.p32)
+[Google Slides] (https://docs.google.com/presentation/d/1ARu3YiBheDJTp0ct9_63XvkIXTvelhdS/edit#slide=id.p32)
 
 This repository contains the materials for D-Lab FSRDC Fundamentals workshop. There are no prerequisites for this workshop.
 
