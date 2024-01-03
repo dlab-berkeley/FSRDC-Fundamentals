@@ -2,7 +2,7 @@
 
 [Google Slides](https://docs.google.com/presentation/d/1ARu3YiBheDJTp0ct9_63XvkIXTvelhdS/edit#slide=id.p32)
 
-This repository contains the materials for D-Lab FSRDC Fundamentals workshop. There are no prerequisites for this workshop.
+This repository contains the materials for D-Lab Federal Statistical Research Data Center(FSRDC) Fundamentals workshop. There are no prerequisites for this workshop.
 
 Check D-Lab's [Learning Pathways](https://dlab-berkeley.github.io/dlab-workshops/python_path.html) to figure out which of our workshops to take!
 
