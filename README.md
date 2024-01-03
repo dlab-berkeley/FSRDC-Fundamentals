@@ -34,4 +34,4 @@ Visit the [D-Lab homepage](https://dlab.berkeley.edu/) to learn more about us. Y
 
 # Contributors
 
-Renee Starowicz (https://dlab.berkeley.edu/people/renee-starowicz)
+[Renee Starowicz](https://dlab.berkeley.edu/people/renee-starowicz)
