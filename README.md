@@ -10,7 +10,7 @@ Check D-Lab's [Learning Pathways](https://dlab-berkeley.github.io/dlab-workshops
 
 Interested in restricted Census or partnering RDC agency (AHRQ, BLS, BEA, NCHS) data use? 
 
-This two-hour introductory workshop will provide an overview of the Berkeley Federal Statistical Research Data Center, with no prior experience assumed. Attendees will learn about the national RDC network, how to access information online about restricted Census data, and how to navigate proposal development. 
+This one-hour introductory workshop will provide an overview of the Berkeley Federal Statistical Research Data Center, with no prior experience assumed. Attendees will learn about the national RDC network, how to access information online about restricted Census data, and how to navigate proposal development. 
 
 Berkeley affiliate seat costs for use of the RDC are covered by D-Lab and we encourage new and previous RDC researchers to join this session if they are interested in developing a project.
 
